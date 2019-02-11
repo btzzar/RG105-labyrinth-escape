@@ -1,5 +1,6 @@
 # RG105-labyrinth-escape
 
+This game was my project for Computer Graphics course at Faculty of Mathematics.
 
 Labyrinth escape is a very simple game, just find the way out.
 
